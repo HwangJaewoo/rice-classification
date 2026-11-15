@@ -1,0 +1,14 @@
+Classification/results/
+Deep_learning/results/
+Deep_learning/data/
+Images/*
+!Images/README.md
+Indices/results/
+__pycache__/
+*.pyc
+*.tmp
+Image_preprocess/reproduce_example.csv
+*.asv
+Thumbs.db
+desktop.ini
+~$*

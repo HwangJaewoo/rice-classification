@@ -1,0 +1,7 @@
+# Python 3.10 or later
+numpy
+pandas
+opencv-python
+Pillow           # Image_preprocess only
+scikit-image     # Image_preprocess only
+torch            # deep-learning baseline only; tested with 2.11.0 (CUDA 12.8)

@@ -1,0 +1,21 @@
+CultivarA,CultivarB,A_as_B,B_as_A,Total,RatePct,RecallA,RecallB
+Sandeuljinmi,Handeul,11,10,21,52.5,40,50.0
+Daebo,Dabo,10,5,15,37.5,50,75.0
+Daesanbyeo,Goami,5,5,10,25.0,75,75.0
+Junam,Dongjin2,5,5,10,25.0,60,75.0
+Sobi,Dami,9,0,9,22.5,30,50.0
+Youngan,Daepyeong,4,4,8,20.0,80,80.0
+Haedamssal,Youngbo,8,0,8,20.0,60,75.0
+Junam,Hopum,3,5,8,20.0,60,70.0
+Sindongjin,Dami,2,5,7,17.5,85,50.0
+Jinpum,Sinbo,1,5,6,15.0,95,75.0
+Sinbo,Daecheongbyeo,0,6,6,15.0,75,55.00000000000001
+Jinmibyeo,Asemi,5,0,5,12.5,50,100.0
+Jinmibyeo,Daepyeong,5,0,5,12.5,50,80.0
+Keumobyeo 2ho,Samdeog,5,0,5,12.5,75,100.0
+Jinkwang,Haechanmulgyeol,5,0,5,12.5,75,100.0
+Jinpum,Borami,0,5,5,12.5,95,50.0
+Samcheonbyeo,Seonpum,0,5,5,12.5,100,65.0
+Daebo,Youngbo,0,5,5,12.5,50,75.0
+Jinpum,Dongjinbyeo,0,5,5,12.5,95,50.0
+Saegyehwa,Ilpumbyeo,5,0,5,12.5,75,75.0

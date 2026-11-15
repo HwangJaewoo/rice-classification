@@ -1,0 +1,21 @@
+CultivarA,CultivarB,A_as_B,B_as_A,Total,RatePct,RecallA,RecallB
+Seolemi,Ilpumbyeo,20,0,20,50.0,0,25
+Jinpum,Manguembyeo,20,0,20,50.0,0,35
+Youngan,Manguembyeo,20,0,20,50.0,0,35
+Jinmibyeo,Saeshin,20,0,20,50.0,0,100
+Shinbaeg,Saeshin,20,0,20,50.0,0,100
+Migwang,Manguembyeo,19,0,19,47.5,0,35
+Samcheonbyeo,Saeshin,19,0,19,47.5,0,100
+Seonpum,Saeshin,19,0,19,47.5,0,100
+Cheongnam,Saeshin,17,0,17,42.5,5,100
+Younghojinmi,Youngjin,17,0,17,42.5,0,100
+Keumobyeo 2ho,Saeshin,16,0,16,40.0,5,100
+Namil,Saeshin,16,0,16,40.0,0,100
+Manmi,Saeshin,16,0,16,40.0,0,100
+Asemi1ho,Manguembyeo,15,0,15,37.5,0,35
+Jannganbyeo,Manguembyeo,15,0,15,37.5,0,35
+Haechanmulgyeol,Manguembyeo,15,0,15,37.5,0,35
+Donghaejinmi,Hanmaeum,0,15,15,37.5,0,0
+Cheongnam,Mananbyeo,0,15,15,37.5,5,0
+Dongin 1 ho,Saeshin,15,0,15,37.5,25,100
+Jinsumi,Saeshin,15,0,15,37.5,0,100
